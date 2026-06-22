@@ -15,8 +15,13 @@ el array estudiantes vuelve a su estado inicial de 3 registros.
 *******Para poderlo ejecutar primero*******
 - Instalación - 
 npm install (en tu terminal de comandos)
+
 - Ejecutar con -
   npm start  (Asi tu servidor comienza a escuchar)
+  
+*****Ejecuta en la barra de direcciones del navegador*****
+http://localhost:3000/api/estudiantes 
+
 
   *****tabla de endpoints disponibles*****
 
