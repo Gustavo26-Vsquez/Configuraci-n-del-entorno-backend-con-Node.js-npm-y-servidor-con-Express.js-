@@ -18,6 +18,8 @@ npm install (en tu terminal de comandos)
 - Ejecutar con -
   npm start  (Asi tu servidor comienza a escuchar)
 
+  *****tabla de endpoints disponibles*****
+
 | Método | Ruta | Descripción | Código éxito | Código error |
 |--------|------|-------------|--------------|---------------|
 | GET | `/` | Información del API | 200 | — |
